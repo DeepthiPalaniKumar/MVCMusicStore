@@ -1,0 +1,1 @@
+C:\Users\Deepthi.Kumar\Dp\Pluralsight Downloads\tfs-visual-studio-2017-continuous-delivery-devops\02\demos\demos\MVCMusicstore\CodedUI.Test\obj\Debug\CodedUI.Test.csprojAssemblyReference.cache

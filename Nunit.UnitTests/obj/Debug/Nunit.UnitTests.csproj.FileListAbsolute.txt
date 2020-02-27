@@ -1,0 +1,1 @@
+C:\Users\Deepthi.Kumar\Dp\Pluralsight Downloads\tfs-visual-studio-2017-continuous-delivery-devops\02\demos\demos\MVCMusicstore\Nunit.UnitTests\obj\Debug\Nunit.UnitTests.csprojAssemblyReference.cache

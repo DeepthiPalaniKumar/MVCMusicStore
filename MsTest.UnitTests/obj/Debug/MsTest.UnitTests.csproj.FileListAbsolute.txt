@@ -1,0 +1,8 @@
+C:\Users\Deepthi.Kumar\Dp\Pluralsight Downloads\tfs-visual-studio-2017-continuous-delivery-devops\02\demos\demos\MVCMusicstore\MsTest.UnitTests\bin\Debug\MsTest.UnitTests.dll.config
+C:\Users\Deepthi.Kumar\Dp\Pluralsight Downloads\tfs-visual-studio-2017-continuous-delivery-devops\02\demos\demos\MVCMusicstore\MsTest.UnitTests\bin\Debug\MsTest.UnitTests.dll
+C:\Users\Deepthi.Kumar\Dp\Pluralsight Downloads\tfs-visual-studio-2017-continuous-delivery-devops\02\demos\demos\MVCMusicstore\MsTest.UnitTests\bin\Debug\MsTest.UnitTests.pdb
+C:\Users\Deepthi.Kumar\Dp\Pluralsight Downloads\tfs-visual-studio-2017-continuous-delivery-devops\02\demos\demos\MVCMusicstore\MsTest.UnitTests\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+C:\Users\Deepthi.Kumar\Dp\Pluralsight Downloads\tfs-visual-studio-2017-continuous-delivery-devops\02\demos\demos\MVCMusicstore\MsTest.UnitTests\obj\Debug\MsTest.UnitTests.csprojAssemblyReference.cache
+C:\Users\Deepthi.Kumar\Dp\Pluralsight Downloads\tfs-visual-studio-2017-continuous-delivery-devops\02\demos\demos\MVCMusicstore\MsTest.UnitTests\obj\Debug\MsTest.UnitTests.csproj.CopyComplete
+C:\Users\Deepthi.Kumar\Dp\Pluralsight Downloads\tfs-visual-studio-2017-continuous-delivery-devops\02\demos\demos\MVCMusicstore\MsTest.UnitTests\obj\Debug\MsTest.UnitTests.dll
+C:\Users\Deepthi.Kumar\Dp\Pluralsight Downloads\tfs-visual-studio-2017-continuous-delivery-devops\02\demos\demos\MVCMusicstore\MsTest.UnitTests\obj\Debug\MsTest.UnitTests.pdb
